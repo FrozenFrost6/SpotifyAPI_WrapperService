@@ -1,0 +1,9 @@
+All links
+
+do localhost:port/swagger-ui.html
+
+login:
+port: 8000 = main app
+
+spotify
+port: 8100 = spotify 
