@@ -3,7 +3,7 @@ The wrapper contains to major parts:
 [Spotify](https://github.com/FrozenFrost6/SpotifyAPI_WrapperService/edit/main/Readme.md#spotify)
 
 
-##Spotify
+## Spotify
 This service provides RESTful api to add, remove, and update playlists and songs.
 The services include:
 
